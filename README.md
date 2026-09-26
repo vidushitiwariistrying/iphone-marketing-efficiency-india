@@ -10,6 +10,17 @@ Data Cleaning: Built a python pipeline to handle Google Trends CSV files and res
 
 Formula used:  Marketing Efficiency ratio= (Sum of Consumer Search Interest)/(Sum of PR Buzz Score)
 
-Quantitative Results:
+Quantitative Results: 
+
+iPhone 17 series efficiency- 2.39
+iPhone 18 series efficiency- 2.49
+
+Conclusion:
+
+(a) iPhone 18 series had a higher marketing efficiency with approximately a 4.2% gap.
+
+(b) The total search demand was identical in both cases (306 points). However, Apple required less PR buzz (123 vs 128) to generate the same total demand during the 18 series launch.
+
+(c) Hypothesis was supported and the falsification criteria wasn't triggered.
 
 
