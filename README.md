@@ -1,0 +1,15 @@
+Research Question: Did the iPhone 18 series launch in India yield higher marketing efficiency compared to the iPhone 17 series?  
+
+Hypothesis: YoY marketing conversion rate experienced an increase due to higher localised demand after the product announcement.
+
+Falsification Criteria: The hypothesis fails if (a) The efficiency ratio drops in the second year, or (b) The 7-Day decline is identical in both cases.
+
+The Setup (7-Day window): Bounded to the first 7 days since the keynote event which cover the product announcement and Pre-ordering window both. Expanding beyond first 7 days was avoided to eliminate noise as PR buzz approaches 0 on these days.
+
+Data Cleaning: Built a python pipeline to handle Google Trends CSV files and resolved excel formatting issues, auto-header offsets etc without using Dropna() in order to keep the row alignment intact.
+
+Formula used:  Marketing Efficiency ratio= (Sum of Consumer Search Interest)/(Sum of PR Buzz Score)
+
+Quantitative Results:
+
+
